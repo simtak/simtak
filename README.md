@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Simon 
 
-🔭 I’m currently working on Front End Web Projects
-🌱 I’m currently learning Back End Web Development
+- 🔭 I’m currently working on Front End Web Projects
+- 🌱 I’m currently learning Back End Web Development
 
 <!--
 **simtak/simtak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
