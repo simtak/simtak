@@ -1,5 +1,7 @@
 ### Hi there 👋 I am Simon 
 
+I am a Web Developer from Germany. 
+
 - 🔭 I’m currently working on Front End Web Projects
 - 🌱 I’m currently learning Back End Web Development
 
