@@ -5,6 +5,8 @@ I am a Web Developer.
 - 🔭 I’m currently working on Front End Web Projects
 - 🌱 I’m currently learning Back End Web Development
 
+![Mario](./img/retro_mario_2.png)
+
 
 
 <!--
