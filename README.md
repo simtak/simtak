@@ -5,7 +5,7 @@ I am a Web Developer.
 - 🔭 I’m currently working on Front End Web Projects
 - 🌱 I’m currently learning Back End Web Development
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+
 
 <!--
 **simtak/simtak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
