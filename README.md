@@ -20,9 +20,9 @@ I am currently engaged in Web Development, mostly frontend but also backend.
 </p>
 
 ### Visitors
-
+<div style="text-align: center;">
 ![Visitor Count](https://profile-counter.glitch.me/simtak/count.svg)
-
+</div>
 
 
 
