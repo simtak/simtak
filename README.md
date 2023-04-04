@@ -19,7 +19,9 @@ I am currently engaged in Web Development, mostly frontend but also backend.
 <img alt="vscode" src="https://img.shields.io/badge/-VSCode-007acc?style=flat-square&logo=visualstudiocode&logoColor=white" />
 </p>
 
-### Visitors
+<p align="center">
+   ## Visitors
+</p>
 
  <div align="center">
                     <p></p>
