@@ -20,9 +20,15 @@ I am currently engaged in Web Development, mostly frontend but also backend.
 </p>
 
 ### Visitors
-<div style="text-align: center;">
+
           ![Visitor Count](https://profile-counter.glitch.me/simtak/count.svg)
-</div>
+          
+          <div align="center">
+                    <p></p>
+                    <img src="https://profile-counter.glitch.me/simtak/count.svg" alt="hit counter" align="center">
+          </div>
+          
+
 
 
 
