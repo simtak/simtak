@@ -19,7 +19,7 @@ I am currently engaged in Web Development, mostly frontend but also backend.
 <img alt="vscode" src="https://img.shields.io/badge/-VSCode-007acc?style=flat-square&logo=visualstudiocode&logoColor=white" />
 </p>
 
-![Visitor Count](https : //profile-counter.glitch.me/simtak/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/simtak/count.svg)
 
 
 
