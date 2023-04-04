@@ -21,6 +21,12 @@ I am currently engaged in Web Development, mostly frontend but also backend.
 
 ### Visitors
 
+ <div align="center">
+                    <p></p>
+                    <img src="https://profile-counter.glitch.me/simtak/count.svg" alt="hit counter" align="center">
+          </div>
+          
+
 
 
 
