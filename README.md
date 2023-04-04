@@ -20,7 +20,7 @@ I am currently engaged in Web Development, mostly frontend but also backend.
 </p>
 
 <p align="center">
-   ## Visitors
+   Visitors
 </p>
 
  <div align="center">
