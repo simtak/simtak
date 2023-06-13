@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Simon 
 
-I am currently engaged in Web Development, mostly frontend but also backend. I am also a big fan of GNU/Linux and similar systems. 
+I am currently engaged in Web Development, mostly frontend but also backend. I am also a big fan of GNU/Linux and other UNIX like systems. 
 
 - 🔭 I’m currently learning and working on Front End Web Projects
 - 🌱 I’m currently learning Back End Web Development
