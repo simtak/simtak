@@ -18,17 +18,7 @@ I am currently engaged in Web Development, mostly frontend but also backend. I a
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="vscode" src="https://img.shields.io/badge/-VSCode-007acc?style=flat-square&logo=visualstudiocode&logoColor=white" />
 </p>
-
-<p align="center">
-   Visitors
-</p>
-
- <div align="center">
-                    <p></p>
-                    <img src="https://profile-counter.glitch.me/simtak/count.svg" alt="hit counter" align="center">
-          </div>
           
-
 
 
 
